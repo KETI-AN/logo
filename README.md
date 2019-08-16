@@ -1,7 +1,9 @@
 # logo
 Logo of KETI Assembly Network
 
+
 <img src="https://github.com/KETI-AN/logo/blob/master/portrait.png?raw=true" width="50%"></img><br>
+<img src="https://github.com/KETI-AN/logo/blob/master/landscape.PNG?raw=true" width="50%"></img><br>
 
 
 # Font
